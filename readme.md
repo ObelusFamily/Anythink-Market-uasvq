@@ -10,4 +10,7 @@ When implementing a new feature or fixing a bug, please create a new pull reques
 
 ## First setup
 
-**[TODO 05/01/2018 @vanessa-cooper]:** _It's been a while since anyone ran a fresh copy of this repo. I think it's worth documenting the steps needed to install and run the repo on a new machine?_
+- Create a new codespace [here](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=553106317)
+- Run `docker-compose up` to start backend and frontend.
+- Ping your app by pointing your browser [here](https://obelusfamily-anythink-market-uasvq-4r64v59ppj257g-3000.githubpreview.dev/api/ping)
+- Create a new user [here](https://obelusfamily-anythink-market-uasvq-4r64v59ppj257g-3001.githubpreview.dev/register)
